@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon integer overflow bug in Java. The bug occurs when an integer variable exceeds its maximum value, leading to unexpected behavior.  The provided solution shows how to use a larger integer type to prevent this error. The comments explain the causes and demonstrate how to avoid this issue in similar situations.
